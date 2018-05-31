@@ -1,0 +1,7 @@
+{
+  "name": "cache-json",
+  "private": true,
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
