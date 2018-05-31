@@ -13,4 +13,4 @@ Todo fue realizado siguiendo [este tutorial](http://jameshuynh.com/cache/json/ra
 Hice un seed de 100 noticias con 1000 comentarios cada una.
 
 Las pruebas son muy claras a la hora de acelerar la respuesta del server
-![](https://s3-us-west-2.amazonaws.com/files-bank/imgs/result.png)
+![resultados](https://s3-us-west-2.amazonaws.com/files-bank/imgs/result.png)
